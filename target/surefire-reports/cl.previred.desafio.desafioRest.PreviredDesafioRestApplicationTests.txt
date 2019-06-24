@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cl.previred.desafio.desafioRest.PreviredDesafioRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.601 s <<< FAILURE! - in cl.previred.desafio.desafioRest.PreviredDesafioRestApplicationTests
+retornaFechasRecibidosConAusentes(cl.previred.desafio.desafioRest.PreviredDesafioRestApplicationTests)  Time elapsed: 0.219 s  <<< ERROR!
+java.lang.NullPointerException
+	at cl.previred.desafio.desafioRest.PreviredDesafioRestApplicationTests.retornaFechasRecibidosConAusentes(PreviredDesafioRestApplicationTests.java:25)
+
